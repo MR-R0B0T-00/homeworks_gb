@@ -1,3 +1,4 @@
+# Task 1
 duration_list = [53, 153, 4153, 400153]
 
 for duration in duration_list:

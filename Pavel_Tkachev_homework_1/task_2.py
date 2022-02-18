@@ -1,3 +1,4 @@
+# Task 2
 def sum_numbers(numbers):
     result_sum = 0
     for number in numbers:
