@@ -9,7 +9,7 @@ def email_parse(email):
         result = result.groupdict()
         return result
     else:
-        raise ValueError
+        raise ValueError(f'wrong email: {email}')
 
 
 print(email_parse('someone@geekbrains.ru'))
